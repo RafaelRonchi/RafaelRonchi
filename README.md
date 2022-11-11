@@ -2,7 +2,7 @@
 
 Meu nome é Rafael Eduardo Ronchi Filho, atualmente sou estudante do curso técnico integrado em informatica no IFSC de Gaspar.
 
-<div align="left">
+<div align="center">
 
   <a href="https://github.com/RafaelRonchi">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=RafaelRonchi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
