@@ -14,8 +14,4 @@ Meu nome é Rafael Eduardo Ronchi Filho, atualmente sou estudante do curso técn
   
   
 </div>
-
-____
-
- ![snake gif](https://github.com/RafaelRonchi/RafaelRonchi/blob/output/github-contribution-grid-snake.svg)
  
