@@ -1,4 +1,4 @@
-### "Olá Mundo!"
+### Olá Mundo!
 
 Meu nome é Rafael Eduardo Ronchi Filho, atualmente sou estudante do curso técnico integrado em informatica no IFSC de Gaspar.
 
