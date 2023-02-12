@@ -1,6 +1,6 @@
 ### Olá Mundo!
 
-Meu nome é Rafael Eduardo Ronchi Filho, atualmente sou estudante do curso técnico integrado em informatica no IFSC de Gaspar.
+Meu nome é Rafael Eduardo Ronchi Filho, atualmente sou estudante do ensino medio com curso técnico em informatica no IFSC de Gaspar.
 
 <div align="center">
 
