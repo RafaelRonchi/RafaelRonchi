@@ -7,7 +7,7 @@ Meu nome é Rafael Eduardo Ronchi Filho, atualmente sou estudante do ensino medi
   <a href="https://github.com/RafaelRonchi">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=RafaelRonchi&show_icons=true&theme=dark&"/>
   
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRonchi&layout=compact&langs_count=7&theme=dark"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRonchi&layout=compact&langs_count=16&theme=dark"/>
  
   <a href="https://www.linkedin.com/in/rafaelronchi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/rafael_ronchii/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
