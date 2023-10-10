@@ -8,7 +8,7 @@ Meu nome é Rafael Eduardo Ronchi Filho, atualmente sou estudante do ensino méd
   <a href="https://github.com/RafaelRonchi">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=RafaelRonchi&show_icons=true&theme=dark&"/>
 
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRonchi&layout=compact&langs_count=10&theme=dark"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRonchi&layout=compact&langs_count=11&theme=dark"/>
 
 </div>
 
