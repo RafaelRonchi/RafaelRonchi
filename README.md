@@ -1,7 +1,7 @@
 
 <h3> Olá Mundo!</h3>
 
-Meu nome é Rafael Eduardo Ronchi Filho, atualmente sou estudante do ensino médio com curso técnico em informática no IFSC de Gaspar.
+Meu nome é Rafael Eduardo Ronchi Filho. Sou desenvolveodor web com C# Asp.Net e Java SpringBoot.
 
 <div align="center">
 
